@@ -1,4 +1,7 @@
 # Sensitivity analysis for hydrogen end-use technologies through Energy System Optimization Models: an application to TEMOA-Italy
+
+This repository includes input data and results of my Master's Thesis.
+
 ## Abstract
 
 The increasing global focus on hydrogen as a pivotal means to achieve decarbonization objectives prompts a critical inquiry into its future economic viability. Addressing this uncertainty necessitates using powerful analytical instruments, among which Energy System Optimization Models.
